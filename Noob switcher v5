@@ -1,3 +1,4 @@
+
 local Object = game:GetObjects("rbxassetid://4654502164")[1]  
 Object.Parent = game.Workspace  
 script = Object.noob
